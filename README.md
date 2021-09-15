@@ -1,5 +1,5 @@
 # PublicSoft-SpringBootCRUD
-Supplier Entity
+Supplier Entity REST API description
 
 In the root package of our project a package with the name controllers has been created. In the controllers package we created, a Java class with the name SupplierController has been added.
 
