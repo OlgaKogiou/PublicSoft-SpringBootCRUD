@@ -1,0 +1,2 @@
+# PublicSoft-SpringBootCRUD
+Supplier Entity
